@@ -1,4 +1,20 @@
-.landing{
-    margin-top:200px;
-    
+.landing {
+    margin-top: 20px;
+    text-align: center;
+    color: #7d1d40;
+    font-size: clamp(24px, 4vw, 36px);
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+.landing-page {
+    min-width: 0;
+}
+
+.jobs-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 64px;
+    padding: 20px;
 }

@@ -1,0 +1,37 @@
+[
+  {
+    "companyId": 1,
+    "name": "Accenture",
+    "Logo": "https://www.google.com/s2/favicons?domain=accenture.com&sz=128",
+    "Role": "Software Engineer",
+    "Experience": [0, 3]
+  },
+  {
+    "companyId": 2,
+    "name": "Bain&Company",
+    "Logo": "https://www.google.com/s2/favicons?domain=bain.com&sz=128",
+    "Role": "Analyst",
+    "Experience": [0, 1]
+  },
+  {
+    "companyId": 3,
+    "name": "Procter&Gamble",
+    "Logo": "https://www.google.com/s2/favicons?domain=pg.com&sz=128",
+    "Role": "Regional Manager",
+    "Experience": [8, 15]
+  },
+  {
+    "companyId": 4,
+    "name": "Nintendo",
+    "Logo": "https://www.google.com/s2/favicons?domain=nintendo.com&sz=128",
+    "Role": "Game Developer 2",
+    "Experience": [4, 8]
+  },
+  {
+    "companyId": 5,
+    "name": "Toshiba",
+    "Logo": "https://www.google.com/s2/favicons?domain=toshiba.com&sz=128",
+    "Role": "HR Recruitment",
+    "Experience": [3, 5]
+  }
+]
